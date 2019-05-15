@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="flowtable" language="en" table="x_flow2_flowtable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>flowtable</label>
+            <language>en</language>
+            <name>x_flow2_flowtable</name>
+            <plural>flowtables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-15 20:35:30</sys_created_on>
+            <sys_id>f5555e7315913300964f1f1143c4833c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>flowtable</sys_name>
+            <sys_package display_value="flow2" source="x_flow2">736f817715113300964f1f1143c483ab</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="flow2">736f817715113300964f1f1143c483ab</sys_scope>
+            <sys_update_name>sys_documentation_x_flow2_flowtable__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-15 20:35:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
